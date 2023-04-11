@@ -1,3 +1,5 @@
+
+'''
     This is a program that plot words data on a graph base on their relative frequency over time.
     Author: Hoang Nhat Minh (220027) & Nguyen Chinh Quan (220066)
     Time: ~45 minutes
